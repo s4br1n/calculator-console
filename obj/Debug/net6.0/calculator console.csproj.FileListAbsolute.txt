@@ -1,0 +1,15 @@
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\bin\Debug\net6.0\calculator console.exe
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\bin\Debug\net6.0\calculator console.deps.json
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\bin\Debug\net6.0\calculator console.runtimeconfig.json
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\bin\Debug\net6.0\calculator console.dll
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\bin\Debug\net6.0\calculator console.pdb
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.csproj.AssemblyReference.cache
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.AssemblyInfoInputs.cache
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.AssemblyInfo.cs
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.csproj.CoreCompileInputs.cache
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.dll
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\refint\calculator console.dll
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.pdb
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\calculator console.genruntimeconfig.cache
+C:\Users\lokal\Downloads\TUJUH\Skilvul - Game Developer\calculator console\obj\Debug\net6.0\ref\calculator console.dll
